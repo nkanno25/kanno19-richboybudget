@@ -63,3 +63,5 @@ function completeTransaction() {
         }
     };
 }
+
+window.addEventListener("online", checkDatabase);
