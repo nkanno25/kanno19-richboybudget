@@ -16,8 +16,6 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screenshot
 
-Add Screenshot
-
 ![image](https://user-images.githubusercontent.com/101083492/185467987-9c08589d-3512-4d1f-abf4-3b07fa6673e8.png)
 
 
