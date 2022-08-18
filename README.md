@@ -1,6 +1,6 @@
 # kanno19-richboybudget
 
-A budget tracking Progressive Web Application (PWA)
+A budget tracking Progressive Web Application (PWA). The file includes an indexed db to enable offline functionality.
 
 ## User Story
 
